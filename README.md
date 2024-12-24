@@ -19,7 +19,7 @@ Ensure you have a web browser installed (e.g., Google Chrome, Mozilla Firefox, M
 ### Installation
 1. **Download or Clone the Repository**:
    ```bash
-   git clone https://github.com/Rushi19-04/PRODIGY_CS_03.git
+   git clone https://github.com/PoojaMhatre2004/PRODIGY_CS_03.git
    ```
 
 2. **Navigate to the Project Directory**:
